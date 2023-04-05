@@ -39,7 +39,7 @@ footer {
   height: 33vh;
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 100vw;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
   z-index: 0;
